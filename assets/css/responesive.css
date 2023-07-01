@@ -1,0 +1,175 @@
+/* xxl- larger desktop */
+@media(min-width:1400px){
+
+}
+
+/* xl- large divices desktop to up  */
+@media(min-width:1200px ) and (max-width:1399.98px){
+
+
+}
+
+/* l- large device desktop and up  */
+@media(min-width:992px) and (max-width:1199.98px){
+
+
+}
+
+/* M- device tablet and up  */
+@media(min-width:768px) and (max-width:991.98px){
+
+
+}
+
+/* s- mobile divice and up  */
+@media(min-width:500px) and (max-width:767.98px){
+    #banner .banner_info h1 {
+        font-size: 35px;
+        padding-bottom: 19px;
+    }
+    #banner {
+        height: 439px;
+    }
+    #banner .banner_info a {
+        font-size: 18px;
+        margin-top: 26px;
+    }
+    #banner .banner_info {
+        color: #ffff;
+        text-align: center;
+        padding-top: 54px;
+    }
+    #banner .banner_info h3 {
+        font-size: 20px;
+        padding-bottom: 8px;
+    }
+    #banner .banner_info p {
+        font-size: 12px;
+        padding: 30px 18px;
+    }
+    #couse .couse_part_info h2 {
+        font-size: 31px;
+        padding-bottom: 30px;
+    }
+    #couse .couse_part_info p {
+        font-size: 12px;
+        padding-bottom: 6px;
+    }
+    #couse .couse_part_ancor ul li a {
+        padding: 0px 20px;
+        font-size: 10px;
+    }
+    #couse .couse_part_ancor ul li a {
+        padding: 0px 2px;
+        font-size: 10px;
+    }
+    #diging h3 {
+        text-align: center;
+        padding-top: 13px;
+        padding-bottom: 14px;
+        font-size: 20px;
+    }
+    #couse .couse_part_info {
+        padding-top: 32px;
+    }
+    .row > * {
+        width: 50%;
+    }
+    #diging .diging_info a p {
+        font-size: 15px;
+        padding-top: 6px;
+    }
+    #diging .diging_info a h4 {
+        font-size: 15px;
+        padding-top: 5px;
+    }
+    #diging .diging_info {
+        margin-bottom: 22px;
+    }
+    #somprke .somprke_info h2 {
+        font-size: 34px;
+        padding-bottom: 15px;
+    }
+    #somprke .somprke_info {
+        padding: 37px 0;
+    }
+    #somprke .somprke_info .into {
+        font-size: 10px;
+        padding-bottom: 16px;
+    }
+    #somprke .somprke_info h2 {
+        font-size: 26px;
+        padding-bottom: 13px;
+    }
+    #somprke .somprke_info p {
+        font-size: 12px;
+        padding: 0px 87px;
+    }
+    .sappolo .sappolo_info h2 {
+        font-size: 30px;
+        padding-bottom: 1px;
+    }
+    .sappolo .sappolo_info p {
+        font-size: 10px;
+        padding-bottom: 15px;
+    }
+    .sappolo .sappolo_info p {
+        font-size: 10px;
+        padding-bottom: 15px;
+    }
+    .sappolo .sappolo_info h4 {
+        font-size: 26px;
+        padding-bottom: 13px;
+    }
+    .sappolo .sappolo_info span {
+        font-size: 10px;
+    }
+    .sappolo .sappolo_info span a {
+        padding: 8px 22px;
+        border-radius: 5px;
+    }
+    #contact .row > * {
+        width: 100%;
+    }
+    #contact .rasel .bd {
+        font-size: 28px;
+        padding-top: 4px;
+        padding-bottom: 18px;
+    }
+    #contact .badhon .rasel img {
+        width: 72px;
+    }
+    #contact .rasel p {
+        font-size: 21px;
+        padding-top: 1px;
+    }
+    #contact .akah h2 {
+        padding-top: 54px;
+        font-size: 32px;
+        padding-bottom: 12px;
+    }
+    #contact .akah ul li a {
+        padding: 10px;
+        font-size: 11px;
+        padding: 5px 24px;
+    }
+    #contact .rasel h2 {
+        font-size: 25px;
+        padding-top: 37px;
+        padding-bottom: 8px;
+    }
+    #contact .badhon .rasel img {
+        width: 52px;
+    }
+    #contact .rasel h4 {
+        font-size: 17px;
+        padding-top: 0px;
+    }
+    #contact .rasel p {
+        font-size: 16px;
+        padding-top: 2px;
+    }
+    #contact {
+        height: 633px;
+    }
+}
